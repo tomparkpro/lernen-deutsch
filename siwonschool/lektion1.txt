@@ -1,0 +1,49 @@
+Ich bin Daniel.
+
+Du bist Daniel.
+
+Er ist Daniel.
+
+Sie ist Daniela.
+
+Es ist Daniel.
+
+Sie sind Daniel Schmidt.
+
+Ich bin Student.
+
+Ich bin Studentin.
+
+Du bist Schüler.
+
+Du bist Schülerin.
+
+Er ist Lehrer.
+
+Sie ist Lehrerin.
+
+Wir sind Studenten.
+
+Ihr seid Studentinnen.
+
+Sie sind Studenten.
+
+Sie sind Studentinnen.
+
+I bin stark.
+
+Du bist stark.
+
+Er ist schwach.
+
+Sie ist schwach.
+
+Er ist alt.
+
+Wir sind jung.
+
+Ihr seid jung.
+
+Sie sind alt.
+
+Sie sind alt.

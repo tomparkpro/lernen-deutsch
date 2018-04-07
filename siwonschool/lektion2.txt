@@ -1,0 +1,43 @@
+Ich lerne Deutsch.
+
+Du lernst Deutsch.
+
+Er lernt Koreanisch.
+
+Sie lernt Englisch.
+
+Ihr lernt Japanisch.
+
+Sie lernen Japanisch.
+
+Sie lernen Englisch.
+
+Ich wohne in Seoul.
+
+Du wohnst in Seoul.
+
+Er wohnt in Berlin.
+
+Sie wohnt auch in Berlin.
+
+Wir wohnen in Bonn.
+
+Ihr wohnt in Bonn.
+
+Sie wohnen in München.
+
+Sie wohnen in München.
+
+Ich komme aus Deutschland.
+
+Du kommst aus Deutschland.
+
+Er kommt aus Korea.
+
+Sie kommt aus Korea.
+
+Ihr kommt aus Frankreich.
+
+Sie kommen aus Österreich.
+
+Sie kommen aus Österreich.

@@ -1,0 +1,41 @@
+Ich fahre nach Dresden.
+
+Du fährst nach Dresden.
+
+Er fährt nach Dresden.
+
+Sie fährt nach Dresden.
+
+Wir fahren nach Frankfurt.
+
+Ihr fahrt nach Frankfurt.
+
+Sie fahren nach Frankfurt.
+
+Ich sehe einen Mann.
+
+Du siehst einen Mann.
+
+Er sieht einen Mann.
+
+Sie sieht einen Mann.
+
+Wir sehen eine Frau.
+
+Ihr seht eine Frau.
+
+Sie sehen eine Frau.
+
+Ich spreche Deutsch.
+
+Du sprichst Deutsch.
+
+Er spricht Deutsch.
+
+Sie spricht Deutsch.
+
+Wir sprechen Chinesisch.
+
+Ihr sprecht Chinesisch.
+
+Sie sprechen Chinesisch.

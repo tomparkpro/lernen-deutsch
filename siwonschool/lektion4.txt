@@ -1,0 +1,194 @@
+der Mann
+
+der Bruder
+
+der Sohn
+
+der Student
+
+der Leher
+
+der Arzt
+
+der Morgen
+
+der Tag
+
+der Abend
+
+der Montag
+
+der Dienstag
+
+der Mittwoch
+
+der Donnerstag
+
+der Freitag
+
+der Samstag
+
+der Sonntag
+
+der Januar
+
+der Februar
+
+der März
+
+der April
+
+der Mai
+
+der Juni
+
+der Juli
+
+der August
+
+der September
+
+der Oktober
+
+der November
+
+der Dezember
+
+der Frühling
+
+der Sommer
+
+der Herbst
+
+der Winter
+
+der Regen
+
+der Schnee
+
+der Hagel
+
+der Donner
+
+der Norden
+
+der Süden
+
+der Nordwesten
+
+der Cognac
+
+der Wein
+
+der Whisky
+
+der Faher
+
+der Arbeiter
+
+der Kapitalismus
+
+der Jurnalismus
+
+die Frau
+
+die Schwester
+
+die Tochter
+
+die Studentin
+
+die Lehrerin
+
+die Ärztin
+
+die Gesundheit
+
+die Krankheit
+
+die Situation
+
+die Station
+
+die Fähigkeit
+
+die Schwierigkeit
+
+die Übung
+
+die Zeitung
+
+die Mannschaft
+
+die Freundschaft
+
+die Blume
+
+die Tasche
+
+die Lampe
+
+das Essen
+
+das Schreiben
+
+das Lessen
+
+das Lernen
+
+das Rot
+
+das Blau
+
+das Grau
+
+das Gelb
+
+das Mädchen
+
+das Brötchen
+
+das Auto
+
+das Foto
+
+das Parlament
+
+das Instrument
+
+das Museum
+
+das Studium
+
+der Mann die Frau das Kind
+
+die Männer die Frauen die Kinder
+
+der Tisch die Wohnung das Regal
+
+di Tische die Wohnungen die Regale
+
+der Hund die Katze das Buch
+
+die Hunde die Katzen die Bücher
+
+der Löffel die Gabel das Messer
+
+die Löffel die Gabeln die Messer
+
+Der Tisch ist mordern.
+
+Die Wohnung ist Klein.
+
+Das Buch ist interessant.
+
+Die Häuser sind groß.
+
+Der Mann spricht Koreanisch.
+
+Die Frau sieht eineen Mann.
+
+Das Auto fährt nach Bonn.
+
+Die Autos fahren nach Bonn.
+

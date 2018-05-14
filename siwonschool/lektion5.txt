@@ -1,0 +1,79 @@
+                남성        여성        중성        복수
+Nominativ       der         die         das         die
+Genitiv         des         der         des         der
+Dativ           dem         der         dem         den
+Akuusativ       den         die         das         die
+
+der Vater       die Mutter      das Baby        die Eltern
+des Vaters      der Mutter      des Babys       der Eltern
+dem Vater       der Mutter      dem Baby        den Eltern
+den Vater       die Mutter      das Baby        die Eltern
+
+Der Vater isk stark.
+
+Die Mutter ist schön.
+
+Das Baby ist süß.
+
+Die Eltern sind nett.
+
+Ich helfe dem Mann.
+
+Du hilfst der Frau.
+
+Er hilft dem Kind.
+
+Sie hilft den Kindern.
+
+Wir helfen den Studenten.
+
+Ich habe den Kugelschreiber.
+
+Du hast die Kugelschreiber.
+
+Er hat die Tasche.
+
+Sie hat die Taschen.
+
+Wir haben das Buch.
+
+Ihr habt die Bücher.
+
+Sie haben das Auto.
+
+Sie haben die Autos.
+
+Ich habe ..
+
+Du hast ..
+
+Er/Sie/Es hat ..
+
+Wir haben ..
+
+Ihr habt ..
+
+Sie/Sie haben ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

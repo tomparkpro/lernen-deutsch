@@ -1,0 +1,90 @@
+            남성        여성        중성
+Nom.        ein         eine        ein
+Gen.        eines       einer       eines
+Dat.        einem       einer       einem
+Akk.        einen       eine        ein
+
+남성                여성                중성                복수
+eine Mann           eine Frau           ein Baby            Eltern
+eines Mannes        einer Frau          eines Babys         Eltern
+einem Mann          einer Frau          einem Baby          Eltern
+einen Mann          eine Frau           ein Baby            Eltern
+
+Ein Mann steht da.
+
+Eine Frau lernt Deutsch.
+
+Eine Studentin wohnt in Berlin.
+
+Ein Mädchen liest das Buch.
+
+Kinder spielen gern Fußball.
+
+Ein Junge hilft einem Mann.
+
+Die Kinder helfen einer Frau.
+
+Der Junge hilft einem Mädchen.
+
+Eine Frau hilft Kindern.
+
+Eine Frau gibt Kindern Schokoladen.
+
+Ein Junge gefällt einem Mädchen gut.
+
+Der Junge gefällt mir gut.
+
+Du hast einen Tisch.
+
+Er hat eine Freundin.
+
+Die Frau hat ein Buch.
+
+Der Bruder hat einen Tisch, einen Stuhl, eine Lampe und ein Bett.
+
+Der Mann hat Autos.
+
+Ich habe ein Handy.
+
+Du hast ein Buch.
+
+Er/Sie/Es hat eine Brille.
+
+Wir haben eine Blume.
+
+Ihr habt einen Hund.
+
+Sie/Sie haben einen Sohn.
+
+Ich habe ein Buch.
+
+Ich habe kein Buch.
+
+
+Nom.        kein            keine           kein            keine
+Gen.        keines          keiner          keines          keiner
+Dat.        keinem          keiner          keinem          keinen
+Akk.        keinen          keiner          kein            keine
+
+
+Er hat keinen Bruder.
+
+Sie hat keine Zeit.
+
+Ich habe kein Problem.
+
+Die Frauen haben kein Geld.
+
+Ich habe keine Bücher.
+
+
+
+
+
+
+
+
+
+
+
+

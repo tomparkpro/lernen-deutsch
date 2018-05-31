@@ -1,0 +1,35 @@
+Yes
+    Ja!
+    Jo!
+    Jap!
+    No!
+
+No
+    Nein!
+    Nee!
+    Nö!
+
+Thank you
+    Danke!
+    Dankeschön!
+    Vielen Dank!
+    Herzlichen Dank!
+
+You're Welcome
+    Bitte!
+    Bitteschön!
+
+Willst du eine Tomate?
+Ja
+
+Willst du ein Handy?
+Ja
+
+Willst du einen Kuli?
+Nein
+
+Willst du enine Schere?
+Nein
+
+
+

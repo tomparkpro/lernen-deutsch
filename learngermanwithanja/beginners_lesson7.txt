@@ -1,2 +1,57 @@
 Die Zahlen von 0 bis 20
 
+0 NULL
+
+1 EINS
+
+2 ZWEI
+
+3 DREI
+
+4 VIER
+
+5 FÜNF
+
+6 SECHS
+
+7 SIEBEN
+
+8 ACHT
+
+9 NEUN
+
+10 ZEHN
+
+11 ELF
+
+12 ZWÖLF
+
+13 DREIZEHN
+
+14 VIERZEHN
+
+15 FÜNFZEHN
+
+16 SECHZEHN
+
+17 SIEBZEHN
+
+18 ACHTZEHN
+
+19 NEUNZEHN
+
+20 ZWANZIG
+
+
+
+
+
+
+
+
+
+
+
+
+
+

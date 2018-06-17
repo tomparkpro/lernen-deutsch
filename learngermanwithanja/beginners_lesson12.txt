@@ -1,4 +1,53 @@
 GERMAN LESSON 12: Personal data in German - fill out forms in German
 
-Personalien
+Personalien (Personal Data)
+
+Nachname : Müller (last name)
+
+Vorname : Anja (first name)
+
+    nach = after
+    vor = before
+
+Straße : Hauptstr.10 (street)  (Ich wohne in der Hauptbahnhof)
+
+PLZ : 01067 (Postleitzahl)
+
+Ort : Dresden (Town)
+
+Land : Deutschland (country)
+
+die Adresse
+
+Geburtsdatum : 05.07.1990
+
+Geburtsort : (birth place)
+
+Geschlecht : w (gender)
+
+    weiblich (w) : female
+    männlich (m) : male
+
+Familienstand : ledig (status of marrage)
+
+    verheiratet = married
+    verlobt = engaged
+    geschieden = divorced
+
+Kinder = 2
+
+Tel = 1234 2324
+
+E-Mail
+
+
+
+
+
+
+
+
+
+
+
 

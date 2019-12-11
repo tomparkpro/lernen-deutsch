@@ -1,0 +1,32 @@
+Wöter
+    - zurzeit : currently
+    - momentan : currently
+    - beruflich : occupational
+    - arbeitslog : unemployed
+    - verheiratet : married
+    - der Journalist : Journalist
+    
+Verb
+    - streiten | gestritten : argue
+    - passieren | ist passiert : happen
+    - rufen | gerufen : call
+    - hören | gehört : listen
+    - sagen | gesagt : say, tell
+    - traffen | traf | getroffen : meet
+
+Ich treffe meinen Freund.
+    (일반동사로 사용할 때는 Akk를 써야한다)
+Ich treffe mich mit meinem Freund.
+    (재귀동사로 사용할 때는 sich 와 mit을 써야한다)
+
+
+in, an, neben, vor, hinter, zwichen, über, unter는 다음과 같이 움직임 여부에 따라 Akk, Dat를 다음에 사용한다.
+
+    Ich gehe in die Schule.  (Wohin?) => Akk 움직임이 있다.
+    Ich bin in der Schule. (Wo?) => Dat 가만히 있다.
+
+    an die Wand
+    an der Wand
+
+    Ich lege das Buch auf den Tisch.
+    Das Buch ist auf dem Tisch.

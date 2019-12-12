@@ -1,0 +1,33 @@
+Wöter
+    - der Löwe : lion
+    - der Schmetterling : butterfly
+    - der Baum : tree
+    - der Lolly : lollipop
+    - der Boden : floor, ground
+    - der Hut : hat
+    - der Schrank : 
+
+
+Verben
+    - fallen | fällt | fiel | ist gefallen : fall
+    - fliegen | fliegt | flog | ist geflogen : fly
+    - springen | springt | sprang | ist gesprungen : jump
+
+
+in : 지역과 물 관련이 아닌 나머지에 대해 사용
+    Ich gehe in einen Park.
+
+an : 물과 관련된 것일 때, an 사용
+    Ich gehe an das Meer.
+
+zu (+Dat) : in과 같은 의미
+    Ich gehe zu einen Park.
+
+nach (+Dat) : 지역에 대해서는 nach 사용
+    Ich gehe nach Dresden.
+
+
+in : Der Lolly fällt in die Tasche.
+an : Der Schmetterling fliegt an den Baum.
+auf : Der Löwe springt auf den Boden.
+vor : Der Hut fällt vor den Löwen

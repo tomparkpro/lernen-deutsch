@@ -6,7 +6,7 @@ Wöter
     - verheiratet : married
     - der Journalist : Journalist
     
-Verb
+Verben
     - streiten | gestritten : argue
     - passieren | ist passiert : happen
     - rufen | gerufen : call
